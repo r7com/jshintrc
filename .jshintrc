@@ -25,7 +25,6 @@
   "maxcomplexity": 10,
   "maxlen": 90,
 
-  "es5": true,
   "esnext": true,
   "moz": false,
 
