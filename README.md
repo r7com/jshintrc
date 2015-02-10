@@ -1,2 +1,2 @@
 # jshintrc
-| .jshintrc do R7
+> .jshintrc do R7
