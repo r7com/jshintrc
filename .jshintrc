@@ -41,7 +41,7 @@
   "lastsemic": false,
   "laxbreak": false,
   "laxcomma": false,
-  "loopunc": false,
+  "loopfunc": false,
   "multistr": false,
   "noyield": false,
   "notypeof": false,
