@@ -49,5 +49,16 @@
   "shadow": false,
   "sub": false,
   "supernew": false,
-  "validthis": false
+  "validthis": false,
+
+  "browser": true,
+  "node": true,
+
+  "globals": {
+    "R7": true,
+    "_": true,
+    "Backbone": true,
+    "console": true,
+    "$": true
+  }
 }
